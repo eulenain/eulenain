@@ -5,4 +5,10 @@
 - 📫 You can reach me on either [Twitter](https://twitter.com/eulenain) or [Instagram](https://www.instagram.com/eulenain/). 
 - 🎨 A fun fact about me is that I love the arts - fine arts and performing arts!
 
-Also don't forget to visit my [blog](https://eulenain.wixsite.com/home) regularly![/b]
+Also don't forget to visit my Blog regularly!
+
+<p align="center">
+  <a href="https://eulenain.wixsite.com/home">
+  <img src="https://github.com/eulenain/eulenain/blob/main/github-link-header.jpg" title="Eulenain's Blog">
+  </a>
+</p>
